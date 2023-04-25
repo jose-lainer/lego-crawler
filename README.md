@@ -1,5 +1,9 @@
 # Practice 1: Web scraping
 
+## Member
+
+**Jose Manuel Lainer Alfaro**
+
 ## Description
 
 This repository contains the code and dataset resulting from a web scraping project focused on the Lego website. This practice has been carried out in the context of the subject *Tipología y ciclo de vida de los datos*, belonging to the Master in Data Science of the Universitat Oberta de Catalunya.
