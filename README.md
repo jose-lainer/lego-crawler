@@ -4,7 +4,7 @@ This repository contains the code and dataset resulting from a web scraping proj
 
 ## Files
 
-The source folder includes the Python code used to extract the data, while the dataset folder includes the resulting CSV file. Additionally, the root directory contains a PDF document that provides answers to the project's questions.
+The source folder includes the Python code used to extract the data, while the dataset folder includes the resulting CSV file.
 
 * source: Folder with the Python code used for web scraping.
 * dataset: Folder with the resulting dataset in CSV format.
